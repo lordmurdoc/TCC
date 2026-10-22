@@ -21,8 +21,8 @@ The work compares standard **Black–Scholes pricing** with Monte Carlo estimate
 
 | Document | Description |
 | --- | --- |
-| [English edition](thesis/Undergraduate_Thesis_EN.pdf) | English translation of the thesis for international readers. |
-| [Original thesis (Portuguese)](thesis/Undergraduate_Thesis_PT.pdf) | Original 2019 monograph submitted to UnB. |
+| [English edition](TCC_LogPeriodic_Option_Pricing_EN.pdf) | English translation of the thesis for international readers. |
+| [Original thesis (Portuguese)](Monografia__Instituto_de_F_sica__Universidade_de_Bras_lia_1_.pdf) | Original 2019 monograph submitted to UnB. |
 
 ## Research context
 
